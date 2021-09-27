@@ -17,6 +17,7 @@ fun main() {
     print("т"); Thread.sleep(200)
     print(" "); Thread.sleep(200)
     print("л"); Thread.sleep(200)
+
     print("о"); Thread.sleep(200)
     print("х"); Thread.sleep(200)
     print("о"); Thread.sleep(200)
